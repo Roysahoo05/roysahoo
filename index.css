@@ -1,0 +1,106 @@
+.left{
+    font-family: 'Bebas Neue', cursive;
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+    left: 33px;
+    font-size: 30px;
+}
+.right{
+display: inline-block;
+position: absolute;
+    top: 12px;
+    right: 33px;
+
+}
+.right li{
+    display: inline-block;
+}
+.right li a{
+    font-family: 'Otomanopee One', sans-serif;
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+padding: 5px;
+}
+.right li a:hover , .right li a.active{
+    text-decoration: underline;
+    color: black;
+}
+.subtittle{
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+}
+.prizeanounce{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 24px;
+    display: block;
+    width: 74%;
+    margin: auto;
+    text-align: center;
+}
+.prizecontainer{
+    display: block;
+    height: 250px;
+    width: 80%;
+    margin: auto;
+
+}
+.prizeone{
+    display: inline-block;
+    font-size: 20px;
+    height: 250px;
+    width: 262px;
+    text-align: center;
+    background: url("img/cash.jpg");
+    background-size: cover;
+}
+.prizetwo{
+    display: inline-block;
+    font-size: 20px;
+    height: 250px;
+    width: 262px;
+    text-align: center;
+    background: url("img/power.jpg");
+    background-size: cover;
+}
+.prizethree{
+    display: inline-block;
+    font-size: 20px;
+    height: 250px;
+    width: 262px;
+    text-align: center;
+    background: url("img/boat.jpg");
+    background-size: cover;
+}
+.prizefour{
+    display: inline-block;
+    font-size: 20px;
+    height: 250px;
+    width: 262px;
+    text-align: center;
+    background: url("img/recharge.jpg");
+    background-size: cover;
+}
+.text{
+    font-family: 'Noto Sans JP', sans-serif;
+    display: block;
+    width: 13%;
+    margin: auto;
+    font-size: 26px;
+}
+.text a{
+    text-decoration: none;
+    color: white;
+}
+.text-winner{
+    font-family: 'Noto Sans JP', sans-serif;
+    display: block;
+    width: 9%;
+    margin: auto;
+    font-size: 26px;
+}
+.text-winner a{
+    text-decoration: none;
+    color: white;
+}

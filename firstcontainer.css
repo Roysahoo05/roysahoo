@@ -1,0 +1,22 @@
+.containerone{
+    height: 185px;
+    width: 67%;
+    display: flex;
+    margin: auto;
+}
+.containertwo{
+    height: 185px;
+    width: 67%;
+    display: flex;
+    margin: auto;
+}
+.contest{
+    margin: 10px;
+    padding: 3px;
+    height: 150px;
+    width: 150px;
+}
+.contest img{
+    height: 150px;
+    width: 150px;
+}
